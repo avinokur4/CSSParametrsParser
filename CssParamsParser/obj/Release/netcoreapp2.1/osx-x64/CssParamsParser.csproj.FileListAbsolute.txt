@@ -1,0 +1,14 @@
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/bin/Release/netcoreapp2.1/osx-x64/libhostpolicy.dylib
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/bin/Release/netcoreapp2.1/osx-x64/libhostfxr.dylib
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/bin/Release/netcoreapp2.1/osx-x64/CssParamsParser
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/bin/Release/netcoreapp2.1/osx-x64/CssParamsParser.deps.json
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/bin/Release/netcoreapp2.1/osx-x64/CssParamsParser.runtimeconfig.json
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/bin/Release/netcoreapp2.1/osx-x64/CssParamsParser.runtimeconfig.dev.json
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/bin/Release/netcoreapp2.1/osx-x64/CssParamsParser.dll
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/bin/Release/netcoreapp2.1/osx-x64/CssParamsParser.pdb
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/obj/Release/netcoreapp2.1/osx-x64/CssParamsParser.csprojAssemblyReference.cache
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/obj/Release/netcoreapp2.1/osx-x64/CssParamsParser.csproj.CoreCompileInputs.cache
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/obj/Release/netcoreapp2.1/osx-x64/CssParamsParser.AssemblyInfoInputs.cache
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/obj/Release/netcoreapp2.1/osx-x64/CssParamsParser.AssemblyInfo.cs
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/obj/Release/netcoreapp2.1/osx-x64/CssParamsParser.dll
+/home/natali/RiderProjects/XSource/blvck.com.ua/CssParamsParser/CssParamsParser/obj/Release/netcoreapp2.1/osx-x64/CssParamsParser.pdb

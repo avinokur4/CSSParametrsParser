@@ -1,0 +1,777 @@
+body {
+  background-color: #f8f5f0;
+  color: #000;
+
+}
+a {
+  color: #017cb9;
+
+}
+.catalog-head {
+  background-color: #ff9e50;
+
+}
+.catalog-head__t {
+  color: #fff;
+
+}
+.t-level1 {
+  background-color: #fff;
+
+}
+.t-level3 {
+  background-color: #f2f2f2;
+
+}
+.jancode-pack dt {
+  background-color: #0096e0;
+  color: #fff;
+
+}
+.jancode-size dt {
+  background-color: #f0fbff;
+
+}
+.str-main {
+  background-color: #fff;
+
+}
+.home-prodact {
+  background-color: #fff;
+
+}
+#category-tab {
+  color: #017cb9;
+
+}
+#category:checked ~ .tab-menu > #category-tab {
+  color: #fff;
+
+}
+.home-search__search input[type="submit"] {
+  color: transparent;
+
+}
+.menu__name {
+  color: #356797;
+
+}
+.conditions-nav {
+  background-color: #fff;
+
+}
+.conditions__lst1st {
+  background-color: #f0fbff;
+
+}
+.conditions__lst li > span {
+  color: #666;
+
+}
+.conditions__lst2nd > li {
+  background-color: #fff;
+
+}
+.conditions__lst2nd > li > a::before {
+  background-color: #fff;
+
+}
+.app-legend li {
+  background-color: #f5f5f5;
+
+}
+.app-legend li a {
+  color: #666;
+
+}
+.attention-brand-menu {
+  background-color: #fff;
+
+}
+.online-shop {
+  background-color: #fff;
+
+}
+.helth-saport {
+  background-color: #f5f5f5;
+
+}
+.lifestyle-habit {
+  background-color: #f5f5f5;
+
+}
+.medicinal-drug {
+  background-color: #fff;
+
+}
+.catalog-list__t a {
+  background-color: #f0fbff;
+  color: #356797;
+
+}
+.catalog-list__lst a {
+  color: #356797;
+
+}
+.catalog-s-category__t {
+  background-color: #f2f2f2;
+  color: #444;
+
+}
+.catalog-s-item__t a {
+  color: #356797;
+
+}
+.catalog-ml-item__t a {
+  color: #356797;
+
+}
+.catalog-ml-item__l span {
+  color: #e7141b;
+
+}
+.catalog-ml-item__l a {
+  color: #e7141b;
+
+}
+.capital--checkbox__empty {
+  background-color: transparent;
+
+}
+.capital--checkbox__enable label {
+  background-color: #fff;
+  color: #356797;
+
+}
+.capital--checkbox__disable label {
+  background-color: #f3f3f3;
+  color: #d3d9dd;
+
+}
+.capital--checkbox__enable .check_box:checked + .label {
+  color: #fff;
+
+}
+.capital--checkbox__enable .check_box:disabled + .label {
+  color: #d3d9dd;
+
+}
+.capital_letter__button li button {
+  color: #fff;
+
+}
+.prodact-freeword__search input[type="submit"] {
+  color: transparent;
+
+}
+.p-search-head h2 {
+  color: #fff;
+
+}
+.incapital--checkbox__enable label {
+  background-color: #fff;
+  color: #356797;
+
+}
+.incapital--checkbox__disable label {
+  background-color: #f3f3f3;
+  color: #d3d9dd;
+
+}
+.incapital--checkbox__enable .check_box:checked + .label {
+  color: #fff;
+
+}
+.incapital--checkbox__enable .check_box:disabled + .label {
+  color: #d3d9dd;
+
+}
+.incapital_letter__button li button {
+  color: #fff;
+
+}
+.producsearch__freeword input[type="submit"] {
+  color: transparent;
+
+}
+.body-name-part dt {
+  color: #fff;
+
+}
+.body-name-part dd ul li label {
+  background-color: #fff;
+  color: #356797;
+
+}
+.body--checkbox__enable .check_box:checked + .label-low {
+  color: #fff;
+
+}
+.body-name__search__button li button {
+  color: #fff;
+
+}
+.b-search-head h2 {
+  color: #fff;
+
+}
+.inbody-name-part dt {
+  color: #fff;
+
+}
+.inbody-name-part dd ul li label {
+  background-color: #fff;
+  color: #356797;
+
+}
+.inbody-name__button li button {
+  color: #fff;
+
+}
+.c-search-head h2 a {
+  color: #fff;
+
+}
+.compo-freeword__search input[type="submit"] {
+  color: transparent;
+
+}
+.compo-name-item li a {
+  color: #356797;
+
+}
+.topical-freeword__search input[type="submit"] {
+  color: transparent;
+
+}
+.topical-list__t {
+  background-color: #e6eef2;
+  color: #444;
+
+}
+.topical-list__lst a {
+  color: #356797;
+
+}
+.detail-name a {
+  color: #0096e0;
+
+}
+.detail-name a:hover {
+  color: #f93;
+
+}
+.detail-price__section dl dt {
+  color: #333;
+
+}
+.detail-price__section dl dd {
+  color: #333;
+
+}
+.detail-feature__sec h2 {
+  color: #0096e0;
+
+}
+.detail-brand__link a {
+  color: #017cb9;
+
+}
+.jan-code__bt {
+  color: #0096e0;
+
+}
+.app-main {
+  background-color: #fff;
+
+}
+.app-list__t a {
+  background-color: #f0fbff;
+  color: #356797;
+
+}
+.app-s-category__t {
+  background-color: #f2f2f2;
+  color: #444;
+
+}
+.app-s-item tbody th {
+  color: #444;
+
+}
+.antitamper__sec h3 {
+  background-color: #f2f2f2;
+  color: #444;
+
+}
+.antitamper__sec p span {
+  color: #ea529f;
+
+}
+.c-nav-head {
+  background-color: #f88d44;
+
+}
+.c-nav-head__t {
+  color: #fff;
+
+}
+.c-nav__search {
+  background-color: #f2f2f2;
+
+}
+.c-nav__input input[type="text"]::-moz-placeholder {
+  color: #b3b3b3;
+
+}
+.c-nav__input input[type="text"]::-webkit-input-placeholder {
+  color: #b3b3b3;
+
+}
+.c-nav__input input[type="submit"] {
+  background-color: transparent;
+
+}
+.c-nav__radio {
+  color: #444;
+
+}
+.c-nav__lst {
+  background-color: #fff2db;
+
+}
+.c-nav__lst li > span {
+  color: #666;
+
+}
+.c-nav__lst2nd > li {
+  background-color: #fff;
+
+}
+.c-nav__lst2nd > li > a::before {
+  background-color: #fff;
+
+}
+.aside-sec {
+  background-color: #fff;
+
+}
+.aside-sec a:hover {
+  color: #f93;
+
+}
+.aside-contact {
+  background-color: #fff;
+
+}
+.aside-contact__t {
+  color: #fff;
+
+}
+.aside-contact__call ul li span {
+  color: #017cb9;
+
+}
+.aside-contact__week {
+  color: #017cb9;
+
+}
+.aside-contact__note {
+  color: red;
+
+}
+.aside-contact__form a {
+  color: #017cb9;
+
+}
+.aside-contact__poisoning {
+  color: #2166ac;
+
+}
+.aside-contact__poisoning a {
+  color: #2166ac;
+
+}
+.slick-slider {
+  -webkit-tap-highlight-color: transparent;
+
+}
+.slick-prev:hover {
+  color: transparent;
+
+}
+.slick-prev:before {
+  color: white;
+
+}
+.slick-dots li button {
+  color: transparent;
+
+}
+.slick-dots li button:before {
+  color: black;
+
+}
+@media (min-width: 779px) {
+    color: #444;
+
+  }
+  a {
+    color: #444;
+
+  }
+  .catalog-head {
+    background-color: transparent;
+
+  }
+  .catalog-head__t {
+    background-color: transparent;
+    color: #444;
+
+  }
+  .catalog-s-head {
+    background-color: transparent;
+
+  }
+  .catalog-s-head__t {
+    background-color: transparent;
+    color: #444;
+
+  }
+  .catalog-s-head__txt {
+    color: #444;
+
+  }
+  .t-level1 {
+    background-color: transparent;
+
+  }
+  #category-tab {
+    color: #017cb9;
+
+  }
+  #category:checked ~ .tab-menu > #category-tab {
+    color: #fff;
+
+  }
+  .search-box input[type="submit"] {
+    background-color: #0f75ad;
+    color: #fff;
+
+  }
+  .conditions__lst2nd li a {
+    color: #017cb9;
+
+  }
+  .product-contact__txt {
+    color: #f56a34;
+
+  }
+  .customer-contact dt {
+    color: #369;
+
+  }
+  .customer-contact dd {
+    color: #369;
+
+  }
+  .customer-contact dd span {
+    color: #444;
+
+  }
+  .customer-contact dd a {
+    color: #017cb9;
+
+  }
+  .contact-poisoning {
+    color: #369;
+
+  }
+  .txt-link a {
+    color: #017cb9;
+
+  }
+  .lifestyle-habit a {
+    color: #017cb9;
+
+  }
+  .medicinal-drug__link a {
+    color: #017cb9;
+
+  }
+  .catalog-list__t a {
+    background-color: #f0fbff;
+    color: #444;
+
+  }
+  .catalog-list__t a::after {
+    border-color: transparent transparent transparent #017cb9;
+
+  }
+  .catalog-list__t a:hover::after {
+    border-color: transparent transparent transparent #fff;
+
+  }
+  .catalog-list__t a:hover {
+    background-color: #1b89c0;
+    color: #fff;
+
+  }
+  .catalog-list__lst a {
+    color: #017cb9;
+
+  }
+  .catalog-list__lst a:hover {
+    color: #f93;
+
+  }
+  .catalog-s-list__pa li a {
+    color: #017cb9;
+
+  }
+  .catalog-s-category__t {
+    background-color: #f5f5f5;
+    color: #444;
+
+  }
+  .catalog-s-item__t a {
+    color: #356797;
+
+  }
+  .catalog-ml-item__t a {
+    color: #356797;
+
+  }
+  .catalog-ml-item__l ul span {
+    color: #e7141b;
+
+  }
+  .catalog-ml-item__l ul a {
+    color: #e7141b;
+
+  }
+  .capital--checkbox__empty {
+    background-color: transparent;
+
+  }
+  .capital--checkbox__enable label {
+    color: #356797;
+
+  }
+  .capital--checkbox__disable label {
+    background-color: #f3f3f3;
+    color: #d3d9dd;
+
+  }
+  .capital--checkbox__enable .check_box:checked + .label {
+    color: #fff;
+
+  }
+  .capital--checkbox__enable .check_box:disabled + .label {
+    color: #d3d9dd;
+
+  }
+  .search-box input[type="submit"] {
+    background-color: #0f75ad;
+    color: #fff;
+
+  }
+  .p-search-head h2 {
+    background-color: #017cb9;
+
+  }
+  .incapital--checkbox__enable label {
+    color: #356797;
+
+  }
+  .insearch-box input[type="submit"] {
+    background-color: #f78810;
+    color: #fff;
+
+  }
+  .body-name-part dt {
+    color: #444;
+
+  }
+  .body-name-part dd ul li label {
+    color: #356797;
+
+  }
+  .b-search-head h2 {
+    background-color: #017cb9;
+
+  }
+  .inbody-name-part dt {
+    color: #444;
+
+  }
+  .inbody-name-part dd ul li label {
+    color: #356797;
+
+  }
+  .search-box input[type="submit"] {
+    background-color: #0f75ad;
+    color: #fff;
+
+  }
+  .compo-name-item li a {
+    color: #356797;
+
+  }
+  .c-search-head h2 a {
+    background-color: #017cb9;
+
+  }
+  .search-box input[type="submit"] {
+    background-color: #f78810;
+    color: #fff;
+
+  }
+  .detail-category__link a {
+    color: #017cb9;
+
+  }
+  .detail-effct__sec dl dt {
+    background-color: #f5f5f5;
+    color: #444;
+
+  }
+  .detail-directions__sec dl dt {
+    background-color: #f5f5f5;
+    color: #444;
+
+  }
+  .detail-compo__sec dl dt {
+    background-color: #f5f5f5;
+    color: #444;
+
+  }
+  .detail-howto__sec dl dt {
+    background-color: #f5f5f5;
+    color: #444;
+
+  }
+  .detail-whenthis__sec dl dt {
+    background-color: #f5f5f5;
+    color: #444;
+
+  }
+  .detail-option__sec span.ttl {
+    background-color: #f5f5f5;
+    color: #444;
+
+  }
+  .detail-dealer__sec dl dt {
+    background-color: #f5f5f5;
+    color: #444;
+
+  }
+  .detail-attached__t {
+    background-color: #f5f5f5;
+    color: #444;
+
+  }
+  .app-new__list li a {
+    color: #017cb9;
+
+  }
+  .app-new__list li a:hover {
+    color: #f93;
+
+  }
+  .app-list__t a {
+    background-color: #f0fbff;
+    color: #444;
+
+  }
+  .app-list__t a::after {
+    border-color: transparent transparent transparent #017cb9;
+
+  }
+  .app-list__t a:hover::after {
+    border-color: transparent transparent transparent #fff;
+
+  }
+  .app-list__t a:hover {
+    background-color: #1b89c0;
+    color: #fff;
+
+  }
+  .app-s-category__t {
+    background-color: #f5f5f5;
+    color: #444;
+
+  }
+  .app-s-item thead th a {
+    color: #356797;
+
+  }
+  .app-s-item tbody td a {
+    color: #008fde;
+
+  }
+  .antitamper__sec h3 {
+    color: #444;
+
+  }
+  .c-nav-head__t {
+    color: #fff;
+
+  }
+  .c-nav__search {
+    background-color: #f5f0e6;
+
+  }
+  .c-nav__radio {
+    color: #444;
+
+  }
+  .c-nav__lst {
+    background-color: #fff;
+
+  }
+  .c-nav__lst li > span {
+    color: #630;
+
+  }
+  .c-nav__lst1st > li > a:hover {
+    background-color: #1aa1d6;
+    color: #fff;
+
+  }
+  .c-nav__lst1st > li.c-nav__li-filio span {
+    background-color: #faf3e4;
+
+  }
+  .c-nav__lst2nd > li {
+    background-color: #fff;
+
+  }
+  .c-nav__lst2nd > li > a::before {
+    background-color: #fff;
+
+  }
+  .aside-sec__linklst a {
+    color: #017cb9;
+
+  }
+  .aside-contact__week {
+    color: #017cb9;
+
+  }
+  .aside-contact__form a {
+    color: #017cb9;
+
+  }
+  .aside-contact__link a {
+    color: #017cb9;
+
+  }
+  .aside-contact__note {
+    color: #444;
+
+  }
+  .aside-contact__poisoning {
+    color: #2166ac;
+
+  }
